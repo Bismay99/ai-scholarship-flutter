@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204754376591",
+    "firebase_url": "https://edufinanceai-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "edufinanceai",
+    "storage_bucket": "edufinanceai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204754376591:android:7ed5bf7fdf2a5d78115dfa",
+        "android_client_info": {
+          "package_name": "com.example.ai_scholarship_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204754376591-1la78t1d3fqt0eqjceh06h70bnf91jvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-JQNtWygLCLN7pEDQzcgX7pXY4HcqG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204754376591-1la78t1d3fqt0eqjceh06h70bnf91jvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
