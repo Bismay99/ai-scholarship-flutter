@@ -71,7 +71,8 @@ npm start
 - **Fail-over Redundancy**: Logic that switches between 3 different AI models to ensure 100% uptime for document verification.
 - **Multilingual Support**: Real-time Hindi/English voice processing for rural accessibility.
 - **Security First**: All sensitive documents are processed and mapped before being securely stored in a biometric-locked vault.
+- **Autofill verified documents**
 
 ---
 
-**Developed for AI Scholarship Hackathon 2026** 🚀
+ 🚀
