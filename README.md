@@ -1,5 +1,17 @@
 # 🎓 AI Scholarship & Loan Discovery Suite
 
+### 👥 Team Info: **VISIONERS** (Team No: 12)
+**Members:**
+1. Anshu Priya
+2. Bismay Jyoti Prakash Das
+3. Bibhu Prasad Panda
+4. Abhijit Kumar Dasmohpatra
+5. Abinash Samantray
+
+**Problem Statement:** AI enabled student loan eligibility, loan application, disbursal and agentic scholarship approval system.
+
+---
+
 A full-stack, AI-driven platform designed to revolutionize how students find and apply for scholarships and loans. This project combines a high-performance **Flutter Mobile App**, an **AI-powered Node.js Backend**, and a **Web Dashboard**.
 
 ---
